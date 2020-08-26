@@ -1,5 +1,6 @@
 import requests
 import json
+import os 
 d = {
         "master": {
         'image': '10.11.66.139/py3_locust_1:0.3',
